@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Cats: The Decieving but Loving</title>
+   <style>
+       
+       body {background-color: rgb(156, 171, 186);}
+       
+       p {color: rgb(39, 61, 74);}
+       
+       h1 {color: rgb(24, 20, 92);}
+       
+       h3 {color: rgb(20, 41, 84);}
+       
+       ol {color: rgb(50, 49, 89);}
+   
+       
+   </style>
+       
+        
+    </head>
+    <body>
+        
+        <h1 style="font-family:calibri; font-size:60px; text-align:center">~ The Best Beast ~</h1>
+        <img src="https://www.kasandbox.org/programming-images/animals/cat.png" alt = "creepy cat reaching over log"width = "250">
+        
+        <p>Cats are the most manipulating and decieving animals out there. One minute they'll be begging for your attention by sitting on your laptop, tugging at your sleeve, crawling onto your shoulder, or being annoyingly vocal. But the next minute they'll be be ignoring </p>
+        
+        <h3>What They Need</h3>
+        
+        <p>Cats don't need much to be satisfied. Here's a short list of what they need to be your friend (on their schedule of course):</p>
+        
+        <ol>
+            <li>Food</li>
+            <li>Water</li>
+            <li>Attention on their schedule</li>
+            <li>Litterbox</li>
+            <li>Shoeboxes</li>
+            <li>Yarn</li>
+        </ol>
+        
+        <img src="https://images.app.goo.gl/fpq4YfjGJvBu5nGg6" alt = "another picture of a cat"width = "250">
+        
+   
+        
+    </body>
+</html>
